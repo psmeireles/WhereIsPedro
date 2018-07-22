@@ -1,0 +1,23 @@
+{
+  "name": "nowtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "gpx-parse": "^0.10.4",
+    "now": "^11.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "now": {
+    "engines": {
+      "node": "8.11.3"
+    }
+  },
+  "author": "",
+  "license": "ISC"
+}
